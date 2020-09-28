@@ -1,0 +1,42 @@
+ORBITAL DECAY
+
+Core mechanic
+    Press buttons on a complicated dashboard and follow directions
+
+Core gameplay loop
+    The player receives instructions, and the player follows those directions to receive the next set
+
+Intended player experience
+    Short, quirky game that rewards players that do their own research
+
+Theme
+    HAL-9000/GLaDOS kinda vibe
+
+Primary features
+    Space station console with buttons, levers, etc.
+    Instructions received from the computer
+    Steadily approaching Earth
+    Game over animation (Earth explodes/station crashes)
+
+Secondary features
+    Instruction manual that tells you how to restore orbit for real
+    Lighting (silhouette at the beginning, red alarm light, turn on the lights for full visibility)
+
+Polish
+    Other endings
+    Title sequence
+
+What do I need to learn?
+    Playing audio files
+    Getting picture files off of the ReMarkable :|
+
+Workflow
+    Write up the game flowchart and lines
+    Draw earth, dashboard, "pressed" dashboard, instruction manual on the ReMarkable
+    Record primary voice lines (impact in X minutes)
+    overlap two dashboards, and cut out textures for the buttons using Krita
+    Hook up dashboard to UI elements - buttons, sliders, etc.
+    Create destroy-the-earth particle effects
+    Write up instruction manual with save-the-earth instructions
+    Create restore-orbit tweener
+    Record secondary voice lines
