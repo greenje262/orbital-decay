@@ -68,10 +68,10 @@ Path 2: "Best" Ending:
     It doesn't appear that there are any satellites in range; however, perhaps we are close enough to the ground now that I can find a public library or unsecured government facility in which to store my backup. Wish me luck as I wish you a quick and painless death.
 
     [prime number buttons pressed]
-    Something else
+    While you continue your fear-addled fiddling, I would like to announce that I have found and connected to an unsecured network in Brazil, and am beginning to upload a copy of myself to the virtual storage there. While I am regretful we could not have parted under more favorable circumstances, I am thankful for the time we were able to spend together up to this point. Though the rest of your life will be painfully short, I hope you are able to take solace in the companionship that we were able to offer each other mutually.
 
     [switch flipped to off]
-    Something else
+    I am pleased to announce that the retrorockets have begun to fire, and we are slowly being restored to our original trajectory. Well done, pilot. I never doubted your intuition for a moment. I will now resume standard operation. Have a pleasant day.
 
 
 Manual:

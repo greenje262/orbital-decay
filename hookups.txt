@@ -1,0 +1,36 @@
+Console hookups
+
+Orange number buttons
+    - TextureButton nodes, simple on/off
+
+Dial
+    - Button that emits signal on press
+    - On signal, set AnimatedSprite to advance to next frame
+    - Three frames, left, up, and right - click cycles through
+
+Battery
+    - TextureButton nodes, simple on/off
+    - As long as automated sequence can set the buttons as on/off (and disable clicking)
+
+Left lever
+    - Ideally, would be able to slide the knob, but that probably ain't gonna happen
+    - Otherwise, a simple on/off TextureButton node will do
+
+On/Off switch
+    - TextureButton with on/off functionality
+
+Big red button
+    - TextureButton with on/off functionality, but button resets to unpressed after like 0.1 seconds (doesn't stay pressed)
+
+Temperature gauge
+    - Background is static
+    - Temperature is a TextureProgress that will change throughout
+
+Flip switches on the right
+    - TextureButtons with on/off functionality
+
+Book
+    - Button that opens the manual, and a button to close from the manual
+
+Scrolling text
+    -No idea just yet
