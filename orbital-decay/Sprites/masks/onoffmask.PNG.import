@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/onoffmask.PNG-d8655f11a5098df0d32e3cb0d62134f2.res"
+
+[deps]
+
+source_file="res://Sprites/masks/onoffmask.PNG"
+dest_files=[ "res://.import/onoffmask.PNG-d8655f11a5098df0d32e3cb0d62134f2.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

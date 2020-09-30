@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/flipswitch1mask.PNG-d05833abacadc0db9a45647d846137e1.res"
+
+[deps]
+
+source_file="res://Sprites/masks/flipswitch1mask.PNG"
+dest_files=[ "res://.import/flipswitch1mask.PNG-d05833abacadc0db9a45647d846137e1.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

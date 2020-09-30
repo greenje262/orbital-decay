@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/batt11mask.PNG-97288252317e9880cb1363030a9e6297.res"
+
+[deps]
+
+source_file="res://Sprites/masks/batt11mask.PNG"
+dest_files=[ "res://.import/batt11mask.PNG-97288252317e9880cb1363030a9e6297.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

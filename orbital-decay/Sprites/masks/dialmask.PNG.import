@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/dialmask.PNG-356a2a5f253dedf0c294b2077971c5d4.res"
+
+[deps]
+
+source_file="res://Sprites/masks/dialmask.PNG"
+dest_files=[ "res://.import/dialmask.PNG-356a2a5f253dedf0c294b2077971c5d4.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/bookmask.PNG-1168457370ecc90fc834c61127bd926d.res"
+
+[deps]
+
+source_file="res://Sprites/masks/bookmask.PNG"
+dest_files=[ "res://.import/bookmask.PNG-1168457370ecc90fc834c61127bd926d.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5

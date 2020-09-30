@@ -1,0 +1,15 @@
+[remap]
+
+importer="bitmap"
+type="BitMap"
+path="res://.import/ob2mask.PNG-ee907c58ae4f7332f671a465657a7170.res"
+
+[deps]
+
+source_file="res://Sprites/masks/ob2mask.PNG"
+dest_files=[ "res://.import/ob2mask.PNG-ee907c58ae4f7332f671a465657a7170.res" ]
+
+[params]
+
+create_from=0
+threshold=0.5
