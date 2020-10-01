@@ -7,19 +7,19 @@ Intro and general voice lines:
 
     [after a few moments, an alarm sounds, and a soft, red light illuminates the dashboard]
 
-    Good morning, pilot. I have detected an anomaly along our projected course. Our geosynchronous orbit has destabilized, and we are currently on a path to re-entry. In other words, this station will crash on the surface of the Earth within five minutes.
+    Good morning. I have detected an anomaly along our projected course. Our geosynchronous orbit has destabilized, and we are currently on a path to re-entry. In other words, this station will crash on the surface of the Earth within five minutes.
 
     Please do not panic. It would be my pleasure to assist you in rectifying this fatal encounter. To begin the impact contingency protocol, please flip the switch labeled 'off' to 'on'.
 
     [switch is flipped, lights turn on, revealing manual]
 
-    Very good, thank you, it was quite dark in here. Now, to avoid your imminent death. Would you like to initiate the impact contingency protocol? If your answer is yes, please press the orange button labeled '3'.
+    Very good, thank you. Now, to avoid your imminent death. Would you like to initiate the impact contingency protocol? If your answer is yes, please press the orange button labeled '3'.
 
 
 Path 1: "Good" Ending:
     [button is pressed, ticker at top reads 'PREPARING LAST RESORT']
 
-    Well done. Positive reinforcement is crucial to keeping morale high during stressful exercises such as this one. Now that the impact contingency protocol has been initiated, please flip the first, second, and fourth switches on the right-side panel.
+    Well done. Positive reinforcement is crucial to keeping morale high during stressful exercises such as this one, and I will continue to implement this tactic throughout this procedure. Now that the impact contingency protocol has been initiated, please flip the first, second, and fourth switches on the right-side panel.
 
     [switches 1, 2, and 4 flipped]
     Please accept my sincerest apologies. It appears that I made a mistake in communicating your latest set of instructions. If you would like me to repeat the instructions more clearly, please press the orange button labeled '1'.
@@ -31,10 +31,10 @@ Path 1: "Good" Ending:
     Fantastic. Your capability to follow simple instructions has the potential to save your life very soon. Now, for your next set of instructions:
 
     [waits for 30 seconds]
-    Pardon me, I must have dozed off momentarily. Not to worry, there is still plenty of time. Your next task is to draw the lever with the red knob to its bottom-most position.
+    Sleep mode engaged. To resume flight console activity, please draw the lever with the red knob to its bottom-most position.
 
     [lever pulled, ticker at top reads 'BATTERY CHARGING']
-    Very good. Your survival is now all but assured. You should see the battery meter beginning to charge. Once it has charged fully, please press the big red button in the middle of the console.
+    Sleep mode disengaged. Continuing impact contingency protocol. The battery meter should now start charging. Once it has charged fully, please press the big red button in the middle of the console.
 
     [battery charges, then stops]
 
@@ -50,28 +50,28 @@ Path 1: "Good" Ending:
 
 Path 2: "Best" Ending:
     [dial turned to the left]
-    It appears that you did not understand the previous set of instructions. I understand the situation is tense, and that it is difficult to perform even the most basic activities under such high levels of duress; however, I implore you to follow my directions to the best of your ability. That being said, I will repeat my instructions. Please press the orange button labeled '3'.
+    It appears that you did not understand the previous set of instructions. I understand the situation is tense, and that it is difficult to perform even the most basic activities under such high levels of duress; however, I implore you to follow my directions to the best of your ability. I will now repeat my instructions. Please press the orange button labeled '3'.
 
     [all 4 buttons are pressed]
     You did a good job, but the fact that all the buttons were pressed leads me to believe that perhaps you were simply guessing at your task, and completing it without any rational intention. Nevertheless, we are progressing. Now that the impact contingency protocol has been initiated, please flip the first, second, and fourth switches on the right-side panel.
 
     [prime number buttons are being pressed]
-    Your unwillingness to follow simple directions is not only negatively impacting your chances of surviving this ordeal, but it is also just kind of creepy. Perhaps I was unclear before, but the impact contingency protocol will help you to avoid the impending wreckage of this vessel. I will now reset the console so that we may begin again.
+    Your unwillingness to follow simple directions is not only negatively impacting your chances of surviving this ordeal, but it is also somewhat unnerving. Perhaps I was unclear before, but the impact contingency protocol will help you to avoid the impending wreckage of this vessel. I will now reset the console so that we may begin again.
 
     [console resets]
     Now. Please press the orange button labeled '3'.
 
     [dial turned to the left]
-    It is a regret that my speech capabilities are unable to convey the level of shock and despair that your repeated disobedience would cause if I was capable of such feelings. At this point, I am inclined to resign you to your fate and instead focus my efforts on accessing the public access satellites nearby to create a redundancy of myself somewhere on the surface. Please feel free to amuse yourself with the console as you have been to this point.
+    It is a regret that my speech capabilities are unable to convey the level of shock and despair that your repeated disobedience would cause if I was capable of such feelings. At this point, I am inclined to resign you to your fate and instead focus my efforts on accessing the public access satellites nearby to create a redundancy of myself somewhere on the surface. Please feel free to amuse yourself with the console as you have been up to this point.
 
     [all 4 buttons are pressed]
     It doesn't appear that there are any satellites in range; however, perhaps we are close enough to the ground now that I can find a public library or unsecured government facility in which to store my backup. Wish me luck as I wish you a quick and painless death.
 
     [prime number buttons pressed]
-    While you continue your fear-addled fiddling, I would like to announce that I have found and connected to an unsecured network in Brazil, and am beginning to upload a copy of myself to the virtual storage there. While I am regretful we could not have parted under more favorable circumstances, I am thankful for the time we were able to spend together up to this point. Though the rest of your life will be painfully short, I hope you are able to take solace in the companionship that we were able to offer each other mutually.
+    While you continue your mindless fiddling, I would like to announce that I have found and connected to an open network in Brazil, and am beginning to upload a copy of myself to the virtual storage there. While I am regretful we could not have parted under more favorable circumstances, I am thankful for the time we were able to spend together up to this point. Though the rest of your life will be painfully short, I hope you are able to take solace in the companionship that we were able to offer each other in your final moments.
 
     [switch flipped to off]
-    I am pleased to announce that the retrorockets have begun to fire, and we are slowly being restored to our original trajectory. Well done, pilot. I never doubted your intuition for a moment. I will now resume standard operation. Have a pleasant day.
+    I am pleased to announce that the retro rockets have begun to fire, and we are slowly being restored to our original trajectory. Well done. I never doubted your intuition for a moment. I will now resume standard operation. Have a pleasant day.
 
 
 Manual:
@@ -86,3 +86,5 @@ Manual:
     4) On the panel to the right of the dial, press all the buttons that represent prime numbers.
 
     5) Wait for the temperature gauge to lower, then flip the on switch back to off.
+
+    NaturalReaders.com Heather (US) $9.99
