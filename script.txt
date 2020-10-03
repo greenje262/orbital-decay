@@ -5,7 +5,7 @@ Orbital Decay game script - all lines are for the computer giving instructions
 Intro and general voice lines:
     [window pans away from title and towards the earth, peaceful space music plays]
 
-    [after a few moments, an alarm sounds, and a soft, red light illuminates the dashboard]
+    [after a few moments]
 
     Good morning. I have detected an anomaly along our projected course. Our geosynchronous orbit has destabilized, and we are currently on a path to re-entry. In other words, this station will crash on the surface of the Earth within five minutes.
 

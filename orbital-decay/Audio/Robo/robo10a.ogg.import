@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/robo10a.ogg-8c5b84406e04d7494eead28fca0b7583.oggstr"
+
+[deps]
+
+source_file="res://Audio/Robo/robo10a.ogg"
+dest_files=[ "res://.import/robo10a.ogg-8c5b84406e04d7494eead28fca0b7583.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

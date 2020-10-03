@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/robo05b.ogg-89a5ae48b3666b18b934d0da9c0357c3.oggstr"
+
+[deps]
+
+source_file="res://Audio/Robo/robo05b.ogg"
+dest_files=[ "res://.import/robo05b.ogg-89a5ae48b3666b18b934d0da9c0357c3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

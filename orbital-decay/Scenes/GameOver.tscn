@@ -47,6 +47,24 @@ __meta__ = {
 "_edit_use_anchors_": false
 }
 
+[node name="quit" type="Button" parent="."]
+margin_left = 300.0
+margin_top = 500.0
+margin_right = 636.0
+margin_bottom = 564.0
+custom_styles/hover = SubResource( 1 )
+custom_styles/pressed = SubResource( 2 )
+custom_styles/focus = SubResource( 3 )
+custom_styles/disabled = SubResource( 4 )
+custom_styles/normal = SubResource( 5 )
+custom_fonts/font = SubResource( 6 )
+custom_colors/font_color_hover = Color( 0.992157, 1, 0, 1 )
+custom_colors/font_color_pressed = Color( 1, 0.992157, 0.568627, 1 )
+text = "QUIT"
+__meta__ = {
+"_edit_use_anchors_": false
+}
+
 [node name="crashed" type="Label" parent="."]
 margin_left = 62.0
 margin_top = 100.0
@@ -56,3 +74,4 @@ custom_fonts/font = SubResource( 7 )
 text = "CRASHED"
 align = 1
 [connection signal="pressed" from="tryagain" to="." method="_on_tryagain_pressed"]
+[connection signal="pressed" from="quit" to="." method="_on_quit_pressed"]
